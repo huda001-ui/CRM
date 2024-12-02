@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 engine = mysql.connector.connect(
     host = "127.0.0.1",
     user = "root",
-    password = "huda1234",
+    password = "******",
     database = "crm_sales",
     use_pure = True
 )
